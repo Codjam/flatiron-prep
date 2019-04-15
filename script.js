@@ -8,3 +8,5 @@ function toggleClass() {
     image.className = 'image'
   }
 }
+
+document.querySelector("#firstHeading")
