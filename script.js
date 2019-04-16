@@ -1,4 +1,4 @@
-let image = document.querySelector("#kitten")
+let image = document.querySelector("#circle")
 image.onclick = toggleClass;
 
 function toggleClass() {
